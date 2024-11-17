@@ -10,8 +10,25 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-navigation/native": "^7.0.3",
+    "@react-navigation/native-stack": "^7.0.3",
+    "@react-navigation/stack": "^7.0.3",
+    "@zegocloud/zego-uikit-prebuilt-live-streaming-rn": "^2.5.1",
+    "@zegocloud/zego-uikit-rn": "^2.14.7",
     "react": "18.3.1",
-    "react-native": "0.76.2"
+    "react-delegate-component": "^1.0.0",
+    "react-native": "0.76.2",
+    "react-native-device-info": "^14.0.0",
+    "react-native-gesture-handler": "^2.21.0",
+    "react-native-orientation-locker": "^1.7.0",
+    "react-native-reanimated": "^3.16.1",
+    "react-native-safe-area-context": "^4.14.0",
+    "react-native-screens": "^4.1.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-navigation-stack": "^2.10.4",
+    "zego-callkit-react-native": "^1.0.6",
+    "zego-express-engine-reactnative": "^3.17.1",
+    "zego-zim-react-native": "^2.18.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
